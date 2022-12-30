@@ -1,0 +1,55 @@
+
+
+body{
+    background-size: cover;
+    background-image:url('http://lh5.ggpht.com/-_GIuW7a3-BQ/Tia9UG_2RkI/AAAAAAAAMLA/vFYqlU6AvR4/wallpaper-amizade-dia-do-amigo%25255B5%25255D.jpg?imgmax=800');
+    font-weight: bold;
+    align-items: center;
+}
+
+#contatos{
+    border: solid 3px black;
+    border-radius: 30px;
+    background: white;
+    width:33%;
+    height:33%;
+    color:rgb(0, 56, 0);
+    padding-left: 20px;
+}
+
+.texto{
+    background-color: #fffffddd;
+    color:#37383a;
+    font-weight: bold;
+    margin-top: 135px;
+}
+
+.topo{
+    background-color: #dde1e3;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+}
+.login{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin:10px;
+    padding-left: 25px;
+    background-color: #fffffddd;
+}
+
+input{
+    width:33%;
+    margin:50px;
+    border-radius: 30;
+    border: rgb(35, 35, 35) 1px solid;
+}
+
+#userName{
+    background-color: white;
+    padding:10px;
+    border-radius: px;
+}
